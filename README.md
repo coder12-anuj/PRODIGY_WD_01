@@ -9,4 +9,5 @@ A sleek, responsive landing page built using HTML, CSS, and JavaScript. Perfect 
 ⚡ Fast and lightweight (no frameworks)
 🧩 Easy to customize
 📁 Project Structure
-#image
+![Screenshot 2025-05-04 012405](https://github.com/user-attachments/assets/d1ea4bb0-54d2-422e-951e-3190c514ed89)
+
